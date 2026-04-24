@@ -5,4 +5,4 @@ python-jose
 passlib[bcrypt]
 reportlab
 python-multipart
-sqlalchemy 
+sqlalchemy
